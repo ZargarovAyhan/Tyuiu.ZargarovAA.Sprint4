@@ -10,6 +10,7 @@ namespace Tyuiu.ZargarovAA.Sprint4.Task5.V23.Lib
     public class DataService : ISprint4Task5V23
     {
         public int[,] Calculate(int[,] matrix)
+
         {
             int rows = matrix.GetUpperBound(0) + 1;
             int columns = matrix.Length / rows;

@@ -12,6 +12,7 @@ namespace Tyuiu.ZargarovAA.Sprint4.Task5.V23
         static void Main(string[] args)
         {
             DataService ds = new DataService();
+
             Random rnd = new Random();
 
             Console.Title = "Спринт #4 | Выполнил: Заргаров А. А. | ИИПБ-23-2";

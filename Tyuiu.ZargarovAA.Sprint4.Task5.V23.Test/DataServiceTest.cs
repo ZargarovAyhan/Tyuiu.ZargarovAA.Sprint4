@@ -13,6 +13,7 @@ namespace Tyuiu.ZargarovAA.Sprint4.Task5.V23.Test
             DataService ds = new DataService();
 
             int[,] mas2 = new int[5, 5] { { 5, -4, 5, -2, 5 },
+
                                           { 5, 5, -3, 8, 4 },
                                           { 8, -2, 5, 8, -4 },
                                           { -3, 5, -1, 4, 8 },
