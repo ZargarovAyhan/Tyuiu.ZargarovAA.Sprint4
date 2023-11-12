@@ -7,6 +7,7 @@ namespace Tyuiu.ZargarovAA.Sprint4.Task6.V30.Test
     public class DataServiceTest
     {
         [TestMethod]
+
         public void ValidCalc()
         {
             DataService ds = new DataService();

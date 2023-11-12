@@ -10,6 +10,7 @@ namespace Tyuiu.ZargarovAA.Sprint4.Task6.V30
     {
         static void Main(string[] args)
         {
+
             DataService ds = new DataService();
 
             Console.Title = "Спринт #4 | Выполнил: Заргаров А.А. | ИИПб 23-2";
