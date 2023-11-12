@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1EB8A3B6-BCFD-4E39-8681-246D1AAE037F}</ProjectGuid>
+    <ProjectGuid>{B1E2A09D-3E94-4C60-866A-0D0BE6364910}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.ZargarovAA.Sprint4.Task7.V2.Test</RootNamespace>
-    <AssemblyName>Tyuiu.ZargarovAA.Sprint4.Task7.V2.Test</AssemblyName>
+    <RootNamespace>Tyuiu.ZargarovAA.Sprint4.Task7.V16.Test</RootNamespace>
+    <AssemblyName>Tyuiu.ZargarovAA.Sprint4.Task7.V16.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.ZargarovAA.Sprint4.Task7.V2.Lib\Tyuiu.ZargarovAA.Sprint4.Task7.V2.Lib.csproj">
-      <Project>{d02ba55c-a67b-4a6d-91e4-ab4ca86ccaa5}</Project>
-      <Name>Tyuiu.ZargarovAA.Sprint4.Task7.V2.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.ZargarovAA.Sprint4.Task7.V16.Lib\Tyuiu.ZargarovAA.Sprint4.Task7.V16.Lib.csproj">
+      <Project>{5639ac32-c521-46d3-85d7-cf5d9c4026c0}</Project>
+      <Name>Tyuiu.ZargarovAA.Sprint4.Task7.V16.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

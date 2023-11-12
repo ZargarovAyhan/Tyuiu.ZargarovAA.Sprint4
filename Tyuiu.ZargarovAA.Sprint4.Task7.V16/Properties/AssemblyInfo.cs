@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Tyuiu.ZargarovAA.Sprint4.Task7.V2")]
+[assembly: AssemblyTitle("Tyuiu.ZargarovAA.Sprint4.Task7.V16")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tyuiu.ZargarovAA.Sprint4.Task7.V2")]
+[assembly: AssemblyProduct("Tyuiu.ZargarovAA.Sprint4.Task7.V16")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b8974004-d986-4aa1-9138-e3deeda74e77")]
+[assembly: Guid("fed9ba5c-885d-441d-bd47-f69181f56d67")]
 
 // Version information for an assembly consists of the following four values:
 //
