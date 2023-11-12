@@ -15,7 +15,9 @@ namespace Tyuiu.ZargarovAA.Sprint4.Task4.V11.Lib
             int columns = matrix.Length / rows;
             int s = 0;
             for (int i = 0; i < rows; i++)
+
             {
+
                 for (int j = 0; j < columns; j++)
                 {
 

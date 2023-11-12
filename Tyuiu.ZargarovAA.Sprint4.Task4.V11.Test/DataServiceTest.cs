@@ -16,6 +16,7 @@ namespace Tyuiu.ZargarovAA.Sprint4.Task4.V11.Test
                                             { 7, 6, 8, 8, 5 },
                                             { 7, 6, 7, 8, 6 },
                                             { 7, 6, 7, 7, 5 } };
+
             int res = ds.Calculate(matrix);
             int wait = 81;
             Assert.AreEqual(wait, res);

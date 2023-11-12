@@ -9,6 +9,7 @@ namespace Tyuiu.ZargarovAA.Sprint4.Task4.V11
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             DataService ds = new DataService();
