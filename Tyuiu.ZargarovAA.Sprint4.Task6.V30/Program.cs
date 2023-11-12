@@ -12,13 +12,13 @@ namespace Tyuiu.ZargarovAA.Sprint4.Task6.V30
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #4 | Выполнил: Замятин Д. Ю. | ИИПб 23-3";
+            Console.Title = "Спринт #4 | Выполнил: Заргаров А.А. | ИИПб 23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Класс Array                                                       *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #30                                                             *");
-            Console.WriteLine("* Выполнил: Замятин Дмитрий Юрьевич | ИИПб 23-3                           *");
+            Console.WriteLine("* Выполнил: Заргаров Айхан Ахатович | ИИПб 23-2                           *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ: используя класс Array, выведите элементы массива,              *");
             Console.WriteLine("*  длина которых больше 5 символов.                                       *");
