@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using Tyuiu.ZargarovAA.Sprint4.Task7.V2.Lib;
 
 namespace Tyuiu.ZargarovAA.Sprint4.Task7.V2.Test
 {
@@ -7,8 +8,18 @@ namespace Tyuiu.ZargarovAA.Sprint4.Task7.V2.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void CheckCalculateValid()
         {
+
+            DataService ds = new DataService();
+            int n = 3;
+            int m = 4;
+            int[,] mtrx = new int[n, m];
+            string value = "597643158942";
+            int res = ds.Calculate(n, m, value);
+
+            int wait = 39;
+            Assert.AreEqual(wait, res);
         }
     }
 }
